@@ -1,0 +1,10 @@
+anthropic>=0.40.0
+openai>=1.50.0
+sounddevice>=0.5.0
+numpy>=1.26
+python-dotenv>=1.0
+silero-vad>=5.1
+torch>=2.2
+websockets>=12.0
+pvporcupine>=3.0      # optional, only for wake word
+pytest>=8.0
